@@ -1,4 +1,4 @@
-import slice from "./slice.js";
+import slice from "../slice.js";
 
 describe("slice", () => {
   test("should return a slice of an array", () => {

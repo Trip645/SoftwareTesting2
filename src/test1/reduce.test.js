@@ -1,4 +1,4 @@
-import reduce from "./reduce";
+import reduce from "../reduce";
 
 describe("reduce", () => {
   test("should reduce array to single value", () => {

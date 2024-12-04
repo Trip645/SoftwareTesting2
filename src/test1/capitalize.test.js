@@ -1,4 +1,4 @@
-import capitalize from "./capitalize";
+import capitalize from "../capitalize";
 
 describe("capitalize", () => {
   test("properly capitalizes first character of a string", () => {

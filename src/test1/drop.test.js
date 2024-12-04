@@ -1,4 +1,4 @@
-import drop from "./drop.js";
+import drop from "../drop.js";
 
 describe("drop", () => {
   test("should return an array with the first element removed", () => {

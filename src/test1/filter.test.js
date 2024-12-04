@@ -1,4 +1,4 @@
-import filter from "./filter";
+import filter from "../filter";
 
 describe("filter", () => {
   test("properly filters array based on predicate", () => {

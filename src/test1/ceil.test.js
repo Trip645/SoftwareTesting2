@@ -1,4 +1,4 @@
-import ceil from "../src/ceil.js";
+import ceil from "../ceil.js";
 
 describe("ceil", () => {
   test("properly rounds up with two decimals accuracy", () => {

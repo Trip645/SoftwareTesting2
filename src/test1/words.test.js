@@ -1,4 +1,4 @@
-import words from "./words";
+import words from "../words";
 
 describe("words", () => {
   test("should split string into words", () => {
